@@ -1,5 +1,3 @@
-
-### Hello My World ! 👋
 <!--
 **Jeonghyeon-Ryu/Jeonghyeon-Ryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +15,8 @@ Here are some ideas to get you started:
 <div>
   <img src="./logo.png" style="width:100%; height:autu;">
 </div>
+### Hello My World ! 👋
+
 
 #
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeonghyeon-Ryu&show_icons=true&theme=tokyonight) <br>
